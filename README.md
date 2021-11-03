@@ -1,2 +1,3 @@
 # idk
 # valami
+# konfliktus
